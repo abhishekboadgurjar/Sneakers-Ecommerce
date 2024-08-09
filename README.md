@@ -52,7 +52,8 @@ To get started with the project, follow these steps:
 
 You can check out the live demo of the Sneakers E-commerce Product Page [here](https://abhishekgurjar-in.github.io/Sneakers-Ecommerce/).
 
-##Screenshots
+
+## Screenshots
 ![Screenshot 2024-08-09 202110](https://github.com/user-attachments/assets/a0271b53-751d-4589-bba4-de4cc2db3a49)
 
 
