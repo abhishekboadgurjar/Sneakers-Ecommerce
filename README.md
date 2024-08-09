@@ -1,4 +1,4 @@
-# Sneakers E-commerce 
+# Sneakers E-commerce Website
 
 
 ## Introduction
