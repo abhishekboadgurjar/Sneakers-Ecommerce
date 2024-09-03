@@ -22,7 +22,6 @@ The **Sneakers E-commerce Product Page** is designed to showcase a product and p
 - **CSS**: Applied for styling the webpage and ensuring it is responsive across various devices.
 - **JavaScript**: Implemented for handling user interactions, such as updating the cart and switching product images.
 
-
 ## Installation
 
 To get started with the project, follow these steps:
